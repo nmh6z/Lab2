@@ -16,4 +16,7 @@ Link for the Issue
 https://github.com/UVA-CS3240-S18/IveGotIssues/issues/24
 
 
+Link for gitignore
+https://github.com/nmh6z/Lab2/blob/master/gitignore.gitignore
+
 
